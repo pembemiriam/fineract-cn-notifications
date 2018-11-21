@@ -83,6 +83,6 @@ flyway:
   enabled: false
 
 smssender:
-  accountSID: AC1fde2c6f26f367b93231c5fdb944c908
-  authToken: bc9a53e41745b8471e0ecafc859d86aa
-  senderNumber: +1 510-944-1898
+  accountSID: AC5c120d8f34ace103f30e077dbf917e8c
+  authToken: 377b30e1627d4b5587d7b04e49c417e9
+  senderNumber: +1 618-248-4135

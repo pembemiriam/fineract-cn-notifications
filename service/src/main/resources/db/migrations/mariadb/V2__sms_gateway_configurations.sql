@@ -17,4 +17,4 @@
 -- under the License.
 --
 
-INSERT INTO wada_sms_gateway_configurations VALUES ('1', 'Twilio', 'AC1fde2c6f26f367b93231c5fdb944c908', 'c9a53e41745b8471e0ecafc859d86aa', '+1 510-944-1898', 'ACTIVE');
+INSERT INTO wada_sms_gateway_configurations VALUES ('1', 'Twilio', ' AC5c120d8f34ace103f30e077dbf917e8c', '377b30e1627d4b5587d7b04e49c417e9', '+1 618-248-4135', 'ACTIVE');
